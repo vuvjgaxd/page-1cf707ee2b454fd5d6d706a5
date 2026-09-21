@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "98fd11165813a3cc389a6f89",
+  "owner": "vuvjgaxd",
+  "repo": "page-1cf707ee2b454fd5d6d706a5",
+  "title": "OVO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1cf707ee2b454fd5d6d706a5",
+      "a": "OVO",
+      "b": "2027最新官网",
+      "entity": "OVO",
+      "brand": "OVO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "31519ec5d9c5db5b49eae6bde6af8b4e53f082507e750cdcf5adfa119f620fd9",
+      "content": {
+        "primary_entity": "OVO",
+        "keyword1": "OVO",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，Windows、macOS、iOS、Android 与路由器各有匹配版本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选定套餐后完成订阅导入，即可在常用设备上开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的 OVO 套餐",
+          "AI_DESCRIPTION": "，OVO 提供基础版、旗舰版与团队版三档订阅，月付与年付均可选，流量、设备数与节点线路按档位区分。基础版适合轻量浏览，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。客户端覆盖 Windows、macOS、iOS、Android 与路由器，按设备系统选择安装，导入订阅后即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路需求出发，快速判断哪一档更适合日常使用。",
+          "AI_FEATURES_TITLE": "三档套餐如何挑选",
+          "AI_FEATURE_TEXT_1": "100GB 月流量支持 3 台设备，适合手机与电脑轻量浏览及基础流媒体。",
+          "AI_FEATURE_TEXT_2": "300GB 月流量支持 5 台设备，IPLC 专线与全节点流媒体解锁兼顾游戏。",
+          "AI_FEATURE_TEXT_3": "1000GB 月流量支持 20 台设备，高带宽节点与企业定制路由适合团队。",
+          "AI_FEATURE_TITLE_1": "基础版轻量",
+          "AI_FEATURE_TITLE_2": "旗舰版均衡",
+          "AI_FEATURE_TITLE_3": "团队版多设备",
+          "AI_GUIDE_INTRO": "从确定档位到完成订阅导入，三个步骤即可让 OVO 在设备上运行。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "OVO 面向需要稳定海外线路访问的用户，提供基础版、旗舰版与团队版三档订阅。按设备数量、月流量与线路类型挑选，客户端覆盖主流桌面与移动系统，导入订阅后即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "客户端支持多平台设备",
+          "AI_HIGHLIGHT_3": "月付年付灵活选择周期",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。按流量与设备数对比即可。",
+          "AI_PLANS_TITLE": "套餐价格与权益对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "核对系统版本与在线设备数要求，确认所选套餐能覆盖自己的使用场景。",
+          "AI_STEP_TEXT_3": "安装对应设备客户端，参照客户端文档导入订阅信息并完成连接。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "OVO 多设备加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "OVO 套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量、设备数和节点类型。基础版 100GB、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线优化；团队版 1000GB、20 台设备并支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "订阅可以在多少台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出设备数时可升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付如何选择？",
+          "AI_FAQ_ANSWER_3": "短期或试用可先选月付，长期稳定使用可考虑年付。基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相比月付更节省。",
+          "AI_FAQ_QUESTION_4": "客户端订阅如何导入？",
+          "AI_FAQ_ANSWER_4": "先按设备系统选择对应客户端，再依据客户端文档提供的步骤导入订阅信息。不同客户端界面不同，以所用客户端说明为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些用户？",
+          "AI_FAQ_ANSWER_5": "团队版适合设备数量多、月流量需求高的用户，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ahcbk.cn",
+    "host": "ahcbk.cn"
+  },
+  "file_hashes": {
+    "index.html": "02af2b0520e6a8883f3cf62ecc8f466edfed4c7814bfbe6e38cd7b27e73c9a22",
+    "sitemap.xml": "3bcbd653e4bc745edf574b5c32140a32a97264fb56a17f0e13c61813b998d624",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d5c997656c08ebcbc3b9c84217f63954cdac01a0bec513a380be3abee48a6936",
+    "robots.txt": "6cd519399a215c5cabb767be9b8b0c00554263886490dc1e447fae070fc7c208",
+    "369af5d154fcb4359b94a53c1b7ef917.txt": "4a009c0dffecda8e95e70753082144be37d0f842db27da9f6dd949ef480703ea"
+  },
+  "revision": "0e1517a7d1bc5e83d5c631a0a1f99a42549df71a32a7b8a4ed6467aa18062e11"
+}
